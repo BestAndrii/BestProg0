@@ -3,4 +3,3 @@
 
 # Контакты
 Мой YouTube здесь: https://youtube.com/@BestProg <br>
-Телеграм: https://t.me/BestProg0
